@@ -1,7 +1,6 @@
 ﻿using System;
 using TMPro;
 using UnityEngine;
-
 // Token: 0x02000003 RID: 3
 public class AdButton : MonoBehaviour
 {
